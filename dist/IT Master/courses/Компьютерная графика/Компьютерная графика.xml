@@ -1,0 +1,136 @@
+<main>
+	<lesson>Компьютерная графика.png</lesson>
+	
+	<exercise>
+		<title>Векторное  изображение, информационный объём которого равен 3 килобайтам, уменьшили по  высоте в 3 раза, а по  ширине – в 2 раза. Определите информационный объём полученного изображения в килобайтах. В ответе  укажите только число.</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>3</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Определите  информационный объём графического файла в килобайтах с разрешением 256 х 128 пикселей и количеством цветов, равным 64. Сжатие данных не используется. В ответе  укажите только число.</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>24</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Ниже представлены шесть файлов. Укажите все графические файлы.</title>
+		<questions>
+			<type>checkbox</type>
+			<question>image.mp3</question>
+			<question>system.jpg</question>
+			<question>song.exe</question>
+			<question>document.rar</question>
+			<question>table.bmp</question>
+			<question>sound.png</question>
+		</questions>
+		<answers>
+			<answer>system.jpg</answer>
+			<answer>table.bmp</answer>
+			<answer>sound.png</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Сколько цветов (N) насчитывается в палитре, соответствующей глубине цвета (i), равной 6?</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>64</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Что называется графическим примитивом?</title>
+		<questions>
+			<type>radio_button</type>
+			<question>простейшая геометрическая фигура</question>
+			<question>пиксель</question>
+			<question>изображение на мониторе</question>
+			<question>участок изображения</question>
+		</questions>
+		<answers>
+			<answer>простейшая геометрическая фигура</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Палитра – это</title>
+		<questions>
+			<type>radio_button</type>
+			<question>количество пикселей, из которых складывается изображение</question>
+			<question>набор цветов, которые могут быть воспроизведены при выводе изображения на монитор</question>
+			<question>точечный элемент на экране монитора</question>
+			<question>длина двоичного кода, который используется для кодирования цвета пикселя</question>
+		</questions>
+		<answers>
+			<answer>набор цветов, которые могут быть воспроизведены при выводе изображения на монитор</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Сканер имеет разрешение 256 х 512 dpi (точек на дюйм). Отсканированное изображение размеров 4 х 4 дюйма занимает 6 Мбайт памяти. Чему равна глубина цвета точки отсканированного изображения? Ответ дайте в битах.</title>
+		<questions>
+			<type>radio_button</type>
+			<question>4</question>
+			<question>8</question>
+			<question>16</question>
+			<question>24</question>
+		</questions>
+		<answers>
+			<answer>24</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Некое растровое изображение было сохранено в файле p1.bmp как 8-разрядный рисунок. Во сколько раз будет меньше информационный объем файла p2.bmp, если в нём это же изображение сохранить как 32-цветный рисунок?</title>
+		<questions>
+			<type>radio_button</type>
+			<question>4</question>
+			<question>3</question>
+			<question>2</question>
+			<question>1,6</question>
+		</questions>
+		<answers>
+			<answer>1,6</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Глубина цвета – это количество:</title>
+		<questions>
+			<type>radio_button</type>
+			<question>цветов в палитре</question>
+			<question>базовых цветов</question>
+			<question>пикселей изображения</question>
+			<question>информации которое используется для кодирования цвета пикселя</question>
+		</questions>
+		<answers>
+			<answer>информации которое используется для кодирования цвета пикселя</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Деформация изображения при изменении размера рисунка - один из недостатков:</title>
+		<questions>
+			<type>radio_button</type>
+			<question>векторной графики</question>
+			<question>растровой графики</question>
+		</questions>
+		<answers>
+			<answer>растровой графики</answer>
+		</answers>
+	</exercise>
+</main>

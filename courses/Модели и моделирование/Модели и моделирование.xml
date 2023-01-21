@@ -1,0 +1,142 @@
+<main>
+	<lesson>Модели и моделирование.png</lesson>
+	
+	<exercise>
+		<title>Описания предметов, ситуаций, событий, процессов на естественных языках – это:</title>
+		<questions>
+			<type>radio_button</type>
+			<question>логические модели</question>
+			<question>алгебраические модели</question>
+			<question>геометрические модели</question>
+			<question>словесные модели</question>
+		</questions>
+		<answers>
+			<answer>словесные модели</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Модель - это...</title>
+		<questions>
+			<type>radio_button</type>
+			<question>копия реально существующего объекта</question>
+			<question>приближенная копия объекта</question>
+			<question>заменитель предмета, объекта или явления</question>
+			<question>точная копия чего бы то ни былоо</question>
+		</questions>
+		<answers>
+			<answer>заменитель предмета, объекта или явления</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Замена реального объекта его формальным описанием – это:</title>
+		<questions>
+			<type>radio_button</type>
+			<question>моделирование</question>
+			<question>анализ</question>
+			<question>формализация</question>
+			<question>алгоритмизация</question>
+		</questions>
+		<answers>
+			<answer>формализация</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Выберите знаковую модель:</title>
+		<questions>
+			<type>radio_button</type>
+			<question>таблица</question>
+			<question>формула</question>
+			<question>рисунок</question>
+			<question>схема</question>
+		</questions>
+		<answers>
+			<answer>формула</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Выберите элемент информационной модели учащегося, существенный для выставления ему оценки за контрольную работу по информатике:</title>
+		<questions>
+			<type>radio_button</type>
+			<question>Время, затраченное на выполнение контрольной работы</question>
+			<question>Наличие компьютера</question>
+			<question>Количество правильно выполненных заданий</question>
+		</questions>
+		<answers>
+			<answer>Количество правильно выполненных заданий</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Файловая система персонального компьютера наиболее адекватно может быть описана в виде:</title>
+		<questions>
+			<type>radio_button</type>
+			<question>иерархической модели</question>
+			<question>табличной модели</question>
+			<question>натурной модели</question>
+		</questions>
+		<answers>
+			<answer>иерархической модели</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Модели, реализованные с помощью систем программирования, электронных таблиц, специализированных математических пакетов и программных средств для моделирования, называются:</title>
+		<questions>
+			<type>radio_button</type>
+			<question>имитационными моделями</question>
+			<question>экономическими моделями</question>
+			<question>математическими моделями</question>
+			<question>натурными моделями</question>
+		</questions>
+		<answers>
+			<answer>имитационными моделями</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>База данных – это:</title>
+		<questions>
+			<type>radio_button</type>
+			<question>набор данных, собранных на одной дискете</question>
+			<question>таблица, позволяющая хранить и обрабатывать данные и формулы</question>
+			<question>совокупность данных, организованных по определённым правилам, предназначенная для хранения во внешней памяти компьютера и постоянного применения</question>
+		</questions>
+		<answers>
+			<answer>совокупность данных, организованных по определённым правилам, предназначенная для хранения во внешней памяти компьютера и постоянного применения</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>К вербальным моделям относится...</title>
+		<questions>
+			<type>checkbox</type>
+			<question>пересказ сюжета книги</question>
+			<question>обдумывание решения задачи</question>
+			<question>схема технического устройства</question>
+			<question>расписание проведения консультаций к экзаменам</question>
+		</questions>
+		<answers>
+			<answer>пересказ сюжета книги</answer>
+			<answer>обдумывание решения задачи</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>К образным моделям относится...</title>
+		<questions>
+			<type>checkbox</type>
+			<question>рисунок на доске</question>
+			<question>журнал успеваемости класса</question>
+			<question>макет здания</question>
+			<question>изображение радуги на асфальте</question>
+		</questions>
+		<answers>
+			<answer>рисунок на доске</answer>
+			<answer>изображение радуги на асфальте</answer>
+		</answers>
+	</exercise>
+</main>

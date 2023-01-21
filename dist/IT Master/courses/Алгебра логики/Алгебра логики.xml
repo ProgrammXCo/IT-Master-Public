@@ -1,0 +1,138 @@
+<main>
+	<lesson>Алгебра логика.png</lesson>
+	
+	<exercise>
+		<title>Выберите верные обозначения истинности/ложности логических высказываний</title>
+		<questions>
+			<type>checkbox</type>
+			<question>True/False</question>
+			<question>T/F</question>
+			<question>1/0</question>
+			<question>Истинность/Ложность</question>
+			<question>Правильно/Неправильно</question>
+			<question>Верно/Неверно</question>
+			<question>Истина/Ложь</question>
+			<question>И/Л</question>
+		</questions>
+		<answers>
+			<answer>True/False</answer>
+			<answer>T/F</answer>
+			<answer>1/0</answer>
+			<answer>Истина/Ложь</answer>
+			<answer>И/Л</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Дизъюнкция – это ...</title>
+		<questions>
+			<type>radio_button</type>
+			<question>логическая операция, которая объединяет два высказывания в одно новое, которое будет являться ложным тогда и только тогда, когда оба исходных высказывания истинны</question>
+			<question>логическая операция, которая объединяет два высказывания в одно новое, которое будет являться истинным тогда и только тогда, когда оба исходных высказывания истинны</question>
+			<question>логическая операция, которая объединяет два высказывания в одно новое, которое будет являться истинным тогда и только тогда, когда оба исходных высказывания ложны</question>
+			<question>логическая операция, которая объединяет два высказывания в одно новое, которое будет являться ложным тогда и только тогда, когда оба исходных высказывания ложны</question>
+		</questions>
+		<answers>
+			<answer>логическая операция, которая объединяет два высказывания в одно новое, которое будет являться ложным тогда и только тогда, когда оба исходных высказывания ложны</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Конъюнкция – это ...</title>
+		<questions>
+			<type>radio_button</type>
+			<question>логическая операция, которая объединяет два высказывания в одно новое, которое будет являться истинным тогда и только тогда, когда оба исходных высказывания истинны</question>
+			<question>логическая операция, которая объединяет два высказывания в одно новое, которое будет являться ложным тогда и только тогда, когда оба исходных высказывания истинны</question>
+			<question>логическая операция, которая объединяет два высказывания в одно новое, которое будет являться ложным тогда и только тогда, когда оба исходных высказывания ложны</question>
+			<question>логическая операция, которая преобразует исходное высказывание в новое, значение которого противоположно исходному</question>
+		</questions>
+		<answers>
+			<answer>логическая операция, которая объединяет два высказывания в одно новое, которое будет являться истинным тогда и только тогда, когда оба исходных высказывания истинны</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Какое предложение НЕ является высказыванием?</title>
+		<questions>
+			<type>radio_button</type>
+			<question>Никакая причина не извиняет невежливость</question>
+			<question>Обязательно стань отличником</question>
+			<question>Логика - наука о законах и формах человеческого мышления</question>
+			<question>1011₂=1*2³+0*2²+1*2+1*1</question>
+		</questions>
+		<answers>
+			<answer>Обязательно стань отличником</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Для какого минимального натурального  числа Х истинно высказывание ((X &lt; 5) v (X &lt; 3)) ^ ((X &lt; 2) v (X &lt; 1))?</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>1</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Вычислите значение логического выражения (не А или B) и не B при A=0 и B=1. В ответе введите результат: 0 или 1</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>0</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Какие из этих логических выражений истинны независимо от логического значения A?</title>
+		<questions>
+			<type>checkbox</type>
+			<question>A или 1</question>
+			<question>A и 1</question>
+			<question>(не А)  или 1</question>
+			<question>(не А) или А</question>
+			<question>1 или (0 и А)</question>
+		</questions>
+		<answers>
+			<answer>A или 1</answer>
+			<answer>(не А)  или 1</answer>
+			<answer>(не А) или А</answer>
+			<answer>1 или (0 и А)</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Для каких из приведённых имён ЛОЖНО высказывание: НЕ(Первая буква гласная) ИЛИ (Последняя буква гласная)?</title>
+		<questions>
+			<type>checkbox</type>
+			<question>Анна</question>
+			<question>Максим</question>
+			<question>Татьяна</question>
+			<question>Егор</question>
+			<question>Антон</question>
+		</questions>
+		<answers>
+			<answer>Егор</answer>
+			<answer>Антон</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Какая фраза является отрицанием утверждения «На улице идет снег и ветрено»?</title>
+		<questions>
+			<type>radio_button</type>
+			<question>На улице нет ни снега, ни ветра</question>
+			<question>На улице или нет снега, или безветрие</question>
+			<question>На улице нет снега и ветрено</question>
+			<question>На улице идет снег и нет ветра</question>
+			<question>На улице идет снег или дует ветер</question>
+		</questions>
+		<answers>
+			<answer>На улице или нет снега, или безветрие</answer>
+		</answers>
+	</exercise>
+</main>

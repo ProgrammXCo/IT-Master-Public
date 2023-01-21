@@ -1,0 +1,100 @@
+<main>
+	<lesson>Измерение информации.png</lesson>
+	
+	<exercise>
+		<title>Определите информационный объём слова "разряд", если считать, что алфавит состоит из 10 букв</title>
+		<questions>
+			<type>radio_button</type>
+			<question>14</question>
+			<question>44</question>
+			<question>24</question>
+			<question>34</question>
+		</questions>
+		<answers>
+			<answer>24</answer>
+		</answers>
+	</exercise>
+
+    <exercise>
+		<title>Какое количество информации необходимо для кодирования каждого из 256 символов некоторого алфавита?</title>
+		<questions>
+			<type>radio_button</type>
+			<question>32</question>
+			<question>8</question>
+			<question>48</question>
+			<question>16</question>
+		</questions>
+		<answers>
+			<answer>8</answer>
+		</answers>
+	</exercise>
+
+    <exercise>
+		<title>Книга, набранная с помощью компьютера, содержит 150 страниц; на каждой странице - 40 строк, в каждой строке - 60 символов. Каков объём информации в книге в байтах? (1 символ кодируется 8 битами)</title>
+		<questions>
+			<type>radio_button</type>
+			<question>35100</question>
+			<question>351</question>
+			<question>360000</question>
+			<question>3600</question>
+		</questions>
+		<answers>
+			<answer>360000</answer>
+		</answers>
+	</exercise>
+
+    <exercise>
+		<title>Сообщение объёмом 1,5 Кбайта содержит 3072 символа. Какова мощность алфавита, при помощи которого было записано сообщение? В ответе укажите количество символов</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>16</answer>
+		</answers>
+	</exercise>
+
+    <exercise>
+		<title>Какое количество информации в битах содержится в сообщении из 20 символов, записанном буквами из 32-символьного алфавита? В ответе напишите число</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>100</answer>
+		</answers>
+	</exercise>
+
+    <exercise>
+		<title>Документ, набранный на компьютере, содержит 32 страницы, на каждой странице 40 строк, в каждой строке 48 символов. Определите информационный объём документа в килобайтах, если каждый символ кодируется 8 битами. В ответе укажите число</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>60</answer>
+		</answers>
+	</exercise>
+
+    <exercise>
+		<title>Первое электронное письмо содержит 50 символов из 32-символьного алфавита, второе - 40 символов из 64-символьного алфавита. На сколько бит объём одного письма больше другого? В ответе укажите число</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>10</answer>
+		</answers>
+	</exercise>
+
+    <exercise>
+		<title>Сколько символов в сообщении, если объём сообщения равен 100 Кбайт, а в алфавите 1024 символа?</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>81920</answer>
+		</answers>
+	</exercise>
+</main>

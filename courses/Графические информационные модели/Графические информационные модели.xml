@@ -1,0 +1,106 @@
+<main>
+	<lesson>Графические информационные модели.png</lesson>
+
+	<exercise>
+		<title>Между населёнными пунктами A, B, C, D, E построены дороги, протяжённость которых (в километрах) приведена в таблице. Определите длину кратчайшего пути между пунктами B и E. Передвигаться можно только по дорогам, протяжённость которых указана в таблице</title>
+		<questions>
+			<image>01.png</image>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>9</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>У Пети Иванова родственники живут в 5 разных городах России. Расстояния между городами внесены в таблицу. Петя перерисовал её в блокнот в виде графа. Считая, что мальчик не ошибся при копировании, укажите, какой граф у Пети в тетради. В ответе введите номер графа на рисунке</title>
+		<questions>
+			<image>02.png</image>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>1</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>На рисунке – схема дорог, связывающих города А, Б, В, Г, Д, Е, Ж и К. По каждой дороге можно двигаться только в одном направлении, указанном стрелкой. Сколько существует различных путей из города А в город К?</title>
+		<questions>
+			<image>03.png</image>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>12</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>На рисунке – схема дорог, связывающих города А, Б, В, Г, Д, Е, Ж, З, И, К и Л. По каждой дороге можно двигаться только в одном направлении, указанном стрелкой. Сколько существует различных путей из города А в город Л?</title>
+		<questions>
+			<image>04.png</image>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>18</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>На рисунке – схема дорог, связывающих города A, B, C, D, E, F, G, H, I и J. По каждой дороге можно двигаться только в одном направлении, указанном стрелкой. Сколько существует различных путей из города A в город J?</title>
+		<questions>
+			<image>05.png</image>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>14</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Путешественник пришел в 08:00 на автостанцию поселка ОЛЬГИНО и увидел показанное на рисунке расписание автобусов. Определите самое раннее время, когда путешественник сможет оказаться в пункте ПАВЛИНО согласно этому расписанию</title>
+		<questions>
+			<image>06.png</image>
+			<type>radio_button</type>
+			<question>08:40</question>
+			<question>10:45</question>
+			<question>11:20</question>
+			<question>12:15</question>
+		</questions>
+		<answers>
+			<answer>12:15</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>В соревнованиях по зимним видам спорта принимают участие лыжники (Л), конькобежцы (К) и хоккеисты (X). Спортсмены имеют разный уровень мастерства: каждый имеет либо III, либо II, либо I разряд, либо является мастером спорта (М). На первой диаграмме отражено количество спортсменов с различным уровнем спортивного мастерства, а на второй — распределение спортсменов по видам спорта. Какие из этих утверждений следуют из анализа обеих представленных диаграмм?</title>
+		<questions>
+			<image>07.png</image>
+			<type>checkbox</type>
+			<question>Все спортсмены I разряда могут быть конькобежцами</question>
+			<question>Все лыжники могут быть мастерами спорта</question>
+			<question>Все хоккеисты могут иметь II разряд</question>
+			<question>Все спортсмены I разряда могут быть хоккеистами</question>
+		</questions>
+		<answers>
+			<answer>Все спортсмены I разряда могут быть конькобежцами</answer>
+			<answer>Все хоккеисты могут иметь II разряд</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>На рисунке - схема дорог, связывающих города А, Б, В, Г, Д, Е, Ж, З, И, К. По каждой дороге можно двигаться только в одном направлении, указанном стрелкой. Сколько существует различных путей из города А в город К?</title>
+		<questions>
+			<image>08.png</image>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>18</answer>
+		</answers>
+	</exercise>
+</main>

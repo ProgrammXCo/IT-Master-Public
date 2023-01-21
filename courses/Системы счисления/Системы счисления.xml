@@ -1,0 +1,135 @@
+<main>
+	<lesson>Системы счисления.png</lesson>
+
+	<exercise>
+		<title>Непозиционная система счисления – это ...</title>
+		<questions>
+			<type>radio_button</type>
+			<question>система счисления, в которой количественный эквивалент цифры в числе зависит от её положения в записи числа</question>
+			<question>система счисления, у которой в каждом разряде (позиции) числа набор допустимых символов (цифр) может отличаться от наборов других разрядов</question>
+			<question>система счисления, в которой количественный эквивалент цифры в числе не зависит от её положения в записи числа</question>
+			<question>это система счисления, где для всех разрядов (позиций) числа набор допустимых символов (цифр) одинаков</question>
+		</questions>
+		<answers>
+			<answer>система счисления, в которой количественный эквивалент цифры в числе не зависит от её положения в записи числа</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Чему будет равен результат вычитания двух чисел 110001₂ и 1011₂? Ответ запишите в восьмеричной системе счисления.</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>46</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Какой алфавит у шестнадцатеричной системы счисления?</title>
+		<questions>
+			<type>radio_button</type>
+			<question>от 1 до 10 и буквы А, В, С, D, E, F</question>
+			<question>от 0 до 9 и буквы A, B, C, D, E, F</question>
+			<question>от 0 до 16 включительно</question>
+			<question>от 0 до 10 и буквы А, В, С, D, E, F</question>
+		</questions>
+		<answers>
+			<answer>от 0 до 10 и буквы А, В, С, D, E, F</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Сколько единиц в двоичной записи числа 151?</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>5</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Система счисления – это ...</title>
+		<questions>
+			<type>radio_button</type>
+			<question>система, в которой числа записываются с помощью заданного набора фигур</question>
+			<question>знаковая система, в которой приняты определенные правила записи чисел</question>
+			<question>компьютерная программа для арифметических вычислений</question>
+			<question>представление чисел с постоянным положением запятой</question>
+		</questions>
+		<answers>
+			<answer>знаковая система, в которой приняты определенные правила записи чисел</answer>
+		</answers>
+	</exercise>
+	
+	<exercise>
+		<title>Переведите число 45 из восьмеричной системы счисления в десятичную</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>37</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Какой  алфавит восьмеричной системы счисления?</title>
+		<questions>
+			<type>radio_button</type>
+			<question>от 0 до 7 включительно</question>
+			<question>от 0 до 8</question>
+			<question>от 0 до 8 включительно</question>
+			<question>от 1 до 8 включительно</question>
+		</questions>
+		<answers>
+			<answer>от 0 до 7 включительно</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Переведите число F5 из шестнадцатеричной системы счисления в десятичную</title>
+		<questions>
+			<type>input</type>
+		</questions>
+		<answers>
+			<settings including_space = "False" type = "number"/>
+			<answer>245</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Переведите десятичное число 189 в шестнадцатеричную систему счисления</title>
+		<questions>
+			<type>radio_button</type>
+			<question>BF</question>
+			<question>15D</question>
+			<question>AD</question>
+			<question>BD</question>
+		</questions>
+		<answers>
+			<answer>BD</answer>
+		</answers>
+	</exercise>
+
+	<exercise>
+		<title>Выберите верный перевод одного и того же десятичного числа 321 в двоичную, восьмеричную и шестнадцатеричную системы счисления</title>
+		<questions>
+			<type>checkbox</type>
+			<question>501₈</question>
+			<question>152₁₆</question>
+			<question>602₈</question>
+			<question>141₁₆</question>
+			<question>10100001₂</question>
+			<question>101000001₂</question>
+		</questions>
+		<answers>
+			<answer>101000001₂</answer>
+			<answer>501₈</answer>
+			<answer>141₁₆</answer>
+		</answers>
+	</exercise>
+</main>

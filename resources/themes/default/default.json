@@ -1,0 +1,401 @@
+{
+  "stack_login": {
+    "frame_main": {
+      "background": "rgb(90, 153, 255)",
+      "background_image": "background.png",
+      "frame_internal": {
+        "background": "rgb(255, 255, 255)",
+        "label_header": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "line_edit_surname": {
+          "not_focus": {
+            "color_border": "rgb(232, 232, 239)",
+            "background": "rgb(244, 243, 248)",
+            "color": "rgb(0, 0, 0)"
+          },
+          "focus": {
+            "color_border": "rgb(182, 217, 253)",
+            "background": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)"
+          }
+        },
+        "line_edit_name": {
+          "not_focus": {
+            "color_border": "rgb(232, 232, 239)",
+            "background": "rgb(244, 243, 248)",
+            "color": "rgb(0, 0, 0)"
+          },
+          "focus": {
+            "color_border": "rgb(182, 217, 253)",
+            "background": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)"
+          }
+        },
+        "line_edit_class": {
+          "not_focus": {
+            "color_border": "rgb(232, 232, 239)",
+            "background": "rgb(244, 243, 248)",
+            "color": "rgb(0, 0, 0)"
+          },
+          "focus": {
+            "color_border": "rgb(182, 217, 253)",
+            "background": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)"
+          }
+        },
+        "push_button_cource": {
+          "background": "rgb(244, 243, 248)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "push_button_enter": {
+          "background": "rgb(3, 123, 251)",
+          "background_disabled": "rgb(149, 200, 255)",
+          "background_pressed": "rgb(0, 74, 173)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "push_button_table_results": {
+        "background": "rgb(232, 232, 239)",
+        "color": "rgb(0, 0, 0)"
+      }
+    }
+  },
+  "window": {
+    "frame_title": {
+      "background":"rgb(90, 153, 255)",
+      "label_title": {
+        "color": " rgb(255, 255, 255)"
+      },
+      "push_button_info": {
+        "normal": {
+          "background": "rgb(90, 153, 255)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "hover": {
+          "background": "rgb(64, 127, 228)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "press": {
+          "background": "rgb(39, 102, 204)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "push_button_minimize": {
+        "normal": {
+          "background": "rgb(90, 153, 255)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "hover": {
+          "background": "rgb(64, 127, 228)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "press": {
+          "background": "rgb(39, 102, 204)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "push_button_close": {
+        "normal": {
+          "background": "rgb(90, 153, 255)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "hover": {
+          "background": "rgb(232, 17, 35)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "press": {
+          "background": "rgb(241, 112, 122)",
+          "color": "rgb(255, 255, 255)"
+        }
+      }
+    },
+    "frame_widgets": {
+      "background":"rgb(140, 140, 140)"
+    }
+  },
+  "stack_lesson": {
+    "frame_main": {
+      "background": "rgb(140, 140, 140)",
+      "frame_header": {
+        "background": "rgb(90, 153, 255)",
+        "label_header": {
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "frame_tools": {
+        "background": "rgb(90, 153, 255)",
+        "push_button_start": {
+          "background": "rgb(3, 123, 251)",
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "lesson_graphics_view": {
+        "background": "rgb(140, 140, 140)",
+        "scrollbar": {
+          "background": "rgb(140, 140, 140)",
+          "handle": {
+            "background": "rgb(3, 123, 255)"
+          }
+        }
+      }
+    }
+  },
+  "stack_test": {
+    "frame_main": {
+      "background": "rgb(255, 255, 255)",
+      "frame_tools": {
+        "background": "rgb(140, 140, 140)",
+        "push_button_finish": {
+          "background": "rgb(3, 123, 251)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "push_button_navigation": {
+          "not_current": {
+            "answered": {
+              "background": "rgb(3, 123, 251)",
+              "color": "rgb(255, 255, 255)",
+              "color_border": "transparent"
+            },
+            "not_answered": {
+              "background": "rgb(112, 157, 255)",
+              "color": "rgb(255, 255, 255)",
+              "color_border": "transparent"
+            }
+          },
+          "current": {
+            "answered": {
+              "background": "rgb(3, 123, 251)",
+              "color": "rgb(255, 255, 255)",
+              "color_border": "rgb(255, 255, 255)"
+            },
+            "not_answered": {
+              "background": "rgb(112, 157, 255)",
+              "color": "rgb(255, 255, 255)",
+              "color_border": "rgb(255, 255, 255)"
+            }
+          }
+        }
+      },
+      "test_tab": {
+        "frame_main": {
+          "background": "rgb(255, 255, 255)",
+          "label_numder_question": {
+            "color": "rgb(158, 158, 158)"
+          },
+          "label_question": {
+            "color": "rgb(0, 0, 0)"
+          },
+          "label_type_question": {
+            "color": "rgb(158, 158, 158)"
+          },
+          "push_button_image": {
+            "background":"rgb(232, 232, 239)"
+          },
+          "dialog_image": {
+            "frame_title": {
+              "background":"rgb(90, 153, 255)",
+              "label_title": {
+                "color": " rgb(255, 255, 255)"
+              },
+              "push_button_close": {
+                "normal": {
+                  "background": "rgb(90, 153, 255)",
+                  "color": "rgb(255, 255, 255)"
+                },
+                "hover": {
+                  "background": "rgb(232, 17, 35)",
+                  "color": "rgb(255, 255, 255)"
+                },
+                "press": {
+                  "background": "rgb(241, 112, 122)",
+                  "color": "rgb(255, 255, 255)"
+                }
+              }
+            },
+            "frame_widgets": {
+              "background":"rgb(140, 140, 140)",
+              "image_graphics_view": {
+                "background": "rgb(140, 140, 140)"
+              }
+            }
+          },
+          "radio_button": {
+            "background": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)"
+          },
+          "checkbox": {
+            "background": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)"
+          },
+          "line_edit": {
+            "not_focus": {
+              "color_border": "rgb(232, 232, 239)",
+              "background": "rgb(244, 243, 248)",
+              "color": "rgb(0, 0, 0)"
+            },
+            "focus": {
+              "color_border": "rgb(182, 217, 253)",
+              "background": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "dialog_exit_test": {
+    "frame_main": {
+      "background": "rgb(245, 245, 245)",
+      "label_header": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "label_hint": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "push_button_cancel": {
+        "background": "rgb(220, 220, 220)",
+        "color": "rgb(0, 0, 0)"
+      },
+      "push_button_exit": {
+        "background": "rgb(3, 123, 251)",
+        "color": "rgb(255, 255, 255)"
+      }
+    }
+  },
+  "dialog_table_results_empty": {
+    "frame_main": {
+      "background": "rgb(245, 245, 245)",
+      "label_header": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "label_hint": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "push_button_ok": {
+        "background": "rgb(3, 123, 251)",
+        "color": "rgb(255, 255, 255)"
+      }
+    }
+  },
+  "dialog_info": {
+    "frame_main": {
+      "background": "rgb(245, 245, 245)",
+      "label_header": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "label_version": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "label_text_info": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "push_button_ok": {
+        "background": "rgb(3, 123, 251)",
+        "color": "rgb(255, 255, 255)"
+      }
+    }
+  },
+  "stack_result": {
+    "frame_main": {
+      "background": "rgb(255, 255, 255)",
+      "chartview": {
+        "background": "rgb(255, 255, 255)"
+      },
+      "frame_legend": {
+        "background": "rgb(255, 255, 255)",
+        "label_header": {
+          "color":"rgb(0, 0, 0)"
+        },
+        "label_result": {
+          "color":"rgb(0, 0, 0)"
+        },
+        "label_legend_right": {
+          "color":"rgb(0, 0, 0)",
+          "indicator": {
+            "background": "rgb(104, 209, 69)"
+          }
+        },
+        "label_legend_wrong": {
+          "color":"rgb(0, 0, 0)",
+          "indicator": {
+            "background": "rgb(255, 127, 39)"
+          }
+        },
+        "label_legend_skip": {
+          "color":"rgb(0, 0, 0)",
+          "indicator": {
+            "background": "rgb(195, 195, 195)"
+          }
+        }
+      },
+      "bar_navigation": {
+        "background": "rgb(140, 140, 140)",
+        "label_number_right": {
+          "color":"rgb(255, 255, 255)",
+          "background": "rgb(104, 209, 69)"
+        },
+        "label_number_wrong": {
+          "color":"rgb(255, 255, 255)",
+          "background": "rgb(255, 127, 39)"
+        },
+        "label_number_skip": {
+          "color":"rgb(255, 255, 255)",
+          "background": "rgb(195, 195, 195)"
+        }
+      },
+      "frame_tools": {
+        "background": "rgb(90, 153, 255)",
+        "push_button_to_main": {
+          "background": "rgb(3, 123, 251)",
+          "color": "rgb(255, 255, 255)"
+        }
+      }
+    }
+  },
+  "stack_table_result": {
+    "frame_main": {
+      "background": "rgb(255, 255, 255)",
+      "frame_header": {
+        "background": "rgb(90, 153, 255)",
+        "label_header": {
+          "color": "rgb(255, 255, 255)"
+        }
+      },
+      "table_results": {
+        "background": "rgb(255, 255, 255)",
+        "color_gridline": "rgb(100, 100, 100)",
+        "header": {
+          "background": "rgb(90, 153, 255)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "even_item": {
+          "background": "rgb(222, 234, 246)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "odd_item": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)"
+        },
+        "selected_item": {
+          "background": "rgb(3, 123, 251)",
+          "color": "rgb(255, 255, 255)"
+        },
+        "scrollbar": {
+          "background": "rgb(255, 255, 255)",
+          "handle": {
+            "background": "rgb(3, 123, 255)"
+          }
+        }
+      },
+      "frame_tools": {
+        "background": "rgb(90, 153, 255)",
+        "push_button_to_main": {
+          "background": "rgb(3, 123, 251)",
+          "color": "rgb(255, 255, 255)"
+        }
+      }
+    }
+  }
+}
